@@ -1,0 +1,26 @@
+*{
+    margin: 1px;
+}
+.nameInput{
+    position: absolute;
+    top:325px;
+    border: 1px solid black;
+    width: 500px;
+    float: left;
+    height: 25px;
+}
+.textBox{
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    overflow: auto;
+}
+.textInput{
+    position: absolute;
+    top:360px;
+    left: 1px;
+    width: 500px;
+    border: 1px solid black;
+    min-height: 25px;
+    text-align:left;
+}
